@@ -1,6 +1,5 @@
-Tracer81 here
+Tres Trevino here.
 
-Attempting (and failing) to learn how to code
-I know C# from Unity and thats about it
+I'm just a 17-year-old trying to start my career. I like to teach myself to code but I have a bit of formal education too.
 
-what else do i put here wtf
+C#, Python, Java, C++, Typescript
